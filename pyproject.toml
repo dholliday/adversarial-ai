@@ -1,0 +1,12 @@
+[project]
+name = "adverserial-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.52.2",
+    "dotenv>=0.9.9",
+    "google-genai>=1.18.0",
+    "openai>=1.84.0",
+]
